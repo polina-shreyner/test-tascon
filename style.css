@@ -1,0 +1,70 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.navbar{
+    height: 60px;
+    margin: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.my-collapse{
+    display: flex;
+    flex: 1;
+    margin-top: 5px;
+    margin-left: 30px;
+}
+
+.item-bold{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 700;
+}
+.navbar > .navbar-brand{
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+.my-mr > .nav-item{
+margin-right: 30px;
+}
+
+
+
+.nav-task{
+    display: flex;
+    margin: 30px 40px;
+}
+
+.my-nav-tab{
+    font-size: 20px;
+    border-bottom: 1px solid #cccccc;
+
+}
+
+.my-nav-tab > .nav-link{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 25px;
+    padding: 0;
+    color: #cccccc;
+}
+.my-nav-tab > .active{
+    border-bottom: 1px solid #ff6633;
+    color: #222222;
+}
+.search-checkbox{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 40px;
+}
+.form-inline{
+
+}
+.row{
+
+}

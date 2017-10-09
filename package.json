@@ -1,0 +1,27 @@
+{
+  "name": "test-tascon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server ./ -p 8080 -o "
+  }, 
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polly747/test-tascon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polly747/test-tascon/issues"
+  },
+  "homepage": "https://github.com/polly747/test-tascon#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta"
+  },
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
