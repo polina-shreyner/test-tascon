@@ -24,7 +24,7 @@ body{
     font-weight: 700;
 }
 .navbar > .navbar-brand{
-    font-size: 25px;
+    font-size: 20px;
     margin: 0;
     padding: 0;
 }
@@ -41,7 +41,7 @@ margin-right: 30px;
 }
 
 .my-nav-tab{
-    font-size: 20px;
+    font-size: 15px;
     border-bottom: 1px solid #cccccc;
 
 }
@@ -62,9 +62,24 @@ margin-right: 30px;
     padding-top: 50px;
     padding-left: 40px;
 }
-.form-inline{
-
+#subscribeNews{
+    margin-top: 15px;
+    margin-left: 30px;
+    width: 15px; 
+    height: 15px;
+    
 }
-.row{
+.my-checkbox{
+    font-size: 15px;
+    color: #cccccc;
+}
 
+.search-checkbox > .nav-link{
+    padding-left: 30px;
+    color: #222222;
+    font-size: 15px;
+}
+.table{
+    margin-left: 40px;
+    margin-top: 10px;
 }
